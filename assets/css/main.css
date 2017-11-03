@@ -545,3 +545,9 @@ table tr th :last-child,
 table tr td :last-child {
   margin-bottom: 0;
 }
+
+/* Blog posts content */
+
+article.blog-post {
+  text-align: justify;
+}
